@@ -29,3 +29,8 @@ li {
 a {
   color: #42b983;
 }
+
+#trigger{
+  cursor: pointer;
+  color: #0000ff;
+}
